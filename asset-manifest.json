@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/antdesign-website/static/css/main.3a2ad4af.css",
+    "main.js": "/antdesign-website/static/js/main.42a0f54a.js",
+    "static/js/787.b6b363cf.chunk.js": "/antdesign-website/static/js/787.b6b363cf.chunk.js",
+    "static/media/bg-works.jpg": "/antdesign-website/static/media/bg-works.6beba56dc544147e8b4a.jpg",
+    "static/media/bg-hero2.jpg": "/antdesign-website/static/media/bg-hero2.10b8ec1aedf409bd19d0.jpg",
+    "static/media/image1.jpg": "/antdesign-website/static/media/image1.c956d38afb3a8bc8615a.jpg",
+    "static/media/image6.jpg": "/antdesign-website/static/media/image6.fcf4e6b8a3a555231bb5.jpg",
+    "static/media/image2.jpg": "/antdesign-website/static/media/image2.0e5021f689913d7c0b9e.jpg",
+    "static/media/image4.jpg": "/antdesign-website/static/media/image4.93213784d615f57b17a0.jpg",
+    "static/media/image3.jpg": "/antdesign-website/static/media/image3.b96965038a5c6313c840.jpg",
+    "static/media/image5.jpg": "/antdesign-website/static/media/image5.05dceef588699a2ed113.jpg",
+    "index.html": "/antdesign-website/index.html",
+    "main.3a2ad4af.css.map": "/antdesign-website/static/css/main.3a2ad4af.css.map",
+    "main.42a0f54a.js.map": "/antdesign-website/static/js/main.42a0f54a.js.map",
+    "787.b6b363cf.chunk.js.map": "/antdesign-website/static/js/787.b6b363cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a2ad4af.css",
+    "static/js/main.42a0f54a.js"
+  ]
+}
